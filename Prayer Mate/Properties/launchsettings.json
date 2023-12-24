@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Prayer Mate (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Prayer Mate (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
